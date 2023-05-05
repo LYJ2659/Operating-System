@@ -1,2 +1,2 @@
-# Operating-System
+# Operating System Class
 Linux Study
